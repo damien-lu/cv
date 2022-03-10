@@ -1,30 +1,28 @@
 # Damien Spinelli
+[Email](mailto:contact@damien.lu) / [Website](https://cv.damien.lu/) / [LinkedIn](https://www.linkedin.com/in/damienspinelli/) / [GitHub](https://github.com/damien-lu/)
 
-_Ingénieur système et réseau, basé à Luxembourg_ <br>
-
-[Email](mailto:contact@damien.lu) / [Website](https://www.damien.lu/) / [LinkedIn](https://www.linkedin.com/in/damienspinelli/) / [GitHub](https://github.com/damien-lu/)
+_Quinze ans d'expérience dans le domaine des technologies de l'information._ <br><br>
+_J'aime imaginer, concevoir et opérer des infrastructures de production résilientes & sécurisées tout en optimisant les coûts. Mon parcours professionnel et ma grande curiosité m'ont permis d'acquérir des compétences dans un grand nombre de technologies, avec une appétence non dissimulée pour les services liés au cloud._
 
 ## 🏢 Expérience
 
-**Head of IT** @ [E-connect Luxembourg](https://www.e-connect.lu/) _(Octobre 2017 - Aujourd'hui)_ <br>
-*Agence web qui assure depuis plus de 20 ans le développement du business de ses clients grâce au digital : création de sites internet, SEA / SEO, social media marketing, stratégie & conception, solutions cloud.*
+**Head of IT** @ [E-connect](https://www.e-connect.lu/) _(oct. 2017 - auj.)_ <br>
+Luxembourg Hollerich, Luxembourg <br>
+_Agence web qui assure le développement du business de ses clients grâce au digital : création de sites internet, SEA / SEO, social media marketing, stratégie & conception, solutions cloud, services managés._
 
 Interlocuteur unique à la tête du service IT, en charge de toutes les tâches afférentes :
-  - Design et implémentation de solutions cloud sur mesure, selon les besoins de nos clients et dans le respect des "best practices" fournisseurs (AWS/Azure well-architected framework)
+  - Design et implémentation de solutions cloud sur mesure, selon les besoins clients et dans le respect des "best practices" fournisseurs (AWS/Azure well-architected framework)
   - Accompagnement de nos clients dans leurs projets de transformation digitale : audit, formation des équipes techniques, adoption cloud & migration des charges de travail
-  - Monitoring système & application (cloud / on-premise)
+  - Monitoring système & application (cloud public / on-premise)
   - Support technique & rédaction de procédures standardisées
-  - Gestion opérationelle du service (planning & management des intervenants externes / freelance, gestion des fournisseurs, partenariats, rentabilité / budget)
-
-**_Technologies utilisés, en vrac :_** Active Directory, Apache2, Ansible, Docker, ELK (Elasticsearch, Logstash, Kibana), Exchange Online, Git, Hyper-V, MSSQL, MySQL, Nginx, Remote Desktop Services, Sensu, Varnish...<br>
-
-**_Services cloud :_** EC2, EBS, S3, Lambda, Elasticache, RDS & Aurora, <br>
+  - Gestion opérationnelle du service : planning & management des intervenants externes / freelance, gestion des fournisseurs, partenariats, rentabilité / budget
 
 **_Partenaires :_** Amazon Web Services, Microsoft Azure & Office 365, Veeam, Trend Micro, Ubiquiti
 <br><br>
 
-**Responsable informatique** @ [Kymco Luxembourg](https://www.kymco.fr/) _(Janvier 2016 - Octobre 2017)_ <br>
-*Importateur officiel de la marque de deux-roues et quad pour les marchés Luxembourgeois, Français et Belge*
+**Responsable informatique** @ [Kymco](https://www.kymco.fr/) _(jan. 2016 - oct. 2017)_ <br>
+Bascharage, Luxembourg <br>
+_Importateur officiel de la marque de deux-roues et quad pour les marchés Luxembourgeois, Français et Belge_
 
 Rattaché à la direction générale France / Belux, encadrement d’une équipe de développement web. Élaboration et mise en œuvre de la stratégie informatique, en cohérence avec les objectifs opérationnels de l’entreprise :
   - Rationalisation de l’infrastructure informatique existante grâce à la virtualisation complète de nos systèmes et transition vers un modèle cloud hybride
@@ -35,7 +33,9 @@ Rattaché à la direction générale France / Belux, encadrement d’une équipe
   - Coordination des différents prestataires
 <br><br>
 
-**Administrateur Systèmes & Réseaux** @ [Kymco Luxembourg](https://www.kymco.fr/) _(Juin 2012 - Janvier 2016)_ <br>
+**Administrateur Systèmes & Réseaux** @ [Kymco Luxembourg](https://www.kymco.fr/) _(juin 2012 - janv. 2016)_ <br>
+Bascharage, Luxembourg <br>
+_Importateur officiel de la marque de deux-roues et quad pour les marchés Luxembourgeois, Français et Belge_
 
 Rattaché au responsable informatique. Gestion de l’infrastructure informatique de l’entreprise et développement full-stack des portails web de la marque :
   - Administration système : hyperviseurs et serveurs virtualisés, infrastructure RDS/VDI, appliances, stations de travail, périphériques mobiles
@@ -49,7 +49,8 @@ Rattaché au responsable informatique. Gestion de l’infrastructure informatiqu
   - Rédaction de procédures techniques
 <br><br>
 
-**Assistant Méthode & Qualité** @ [Sage France](https://www.sage.fr/) _(Juillet 2010 - Juin 2012)_ <br>
+**Assistant Méthode & Qualité** @ [Sage](https://www.sage.fr/) _(juil. 2010 - juin 2012)_ <br>
+Saint-Julien-lès-Metz, France <br>
 *Troisième éditeur européen de progiciel de gestion intégré (ERP)*
 
   - Consultance technique et fonctionnelle sur la solution ERP Sage 100 auprès des revendeurs partenaires
@@ -60,7 +61,8 @@ Rattaché au responsable informatique. Gestion de l’infrastructure informatiqu
   - Mise en place des outils de mesure et des indicateurs clés pour les sites de Metz, Bordeaux et Toulouse (~150 collaborateurs sur 3 sites)
 <br><br>
 
-**Assistant Méthode & Qualité** @ [Ciel France](https://www.ciel.com/) _(Décembre 2007 - Juillet 2010)_ <br>
+**Technicien Support** @ [Ciel](https://www.ciel.com/) _(déc. 2007 - juil. 2010)_ <br>
+Saint-Julien-lès-Metz, France <br>
 *Editeur de logiciel de gestion pour TPE, artisans et professions libérales*
 
   - Support technique 1er et 2nd niveau auprès des clients et partenaires du groupe
@@ -69,3 +71,38 @@ Rattaché au responsable informatique. Gestion de l’infrastructure informatiqu
   - Test des produits en phase de développement
   - Réalisation de la documentation technique et fonctionnelle des logiciels
 <br><br>
+
+## 📌 Technologies
+ - **Services AWS** : VPC/EC2/SecurityGroup, ELB, Autoscaling groups, IAM, Cloudfront, Cloudwatch, Cloudformation, Route 53, S3, EFS, RDS/Aurora, SES, SNS, Lambda, etc...
+ - **Services Azure & M365** : Virtual Machine (VM), Storage Account, Azure Active Directory, Azure backup, Exchange Online, Onedrive for Business, etc...
+ - Microsoft : Windows Server 2019 (Active Directory, GPO, DNS, DHCP, Remote Desktop Services, WSUS...)
+ - Virtualisation : Hyper-V, VMware vSphere
+ - Serveur web : Apache2, Nginx
+ - Bases de données : Microsoft SQL Server, MySQL
+ - Automatisation : Ansible
+ - Sauvegarde : Veeam Backup & Replication
+ - Key store / Cache : Redis, Varnish
+ - Conteneur : Docker
+ - Monitoring / data : ELK (Elasticsearch, Logstash, Kibana), Sensu
+ - Développement : PHP, Python, Powershell, Shell-scripting
+ - Code repo / CI / CD : Git, Bitbucket
+<br><br>
+
+## 👩🏼‍🎓 Formation & Certifications
+
+**AWS Certified Solutions Architect - Associate** <br>
+[Amazon Web Services](https://www.credly.com/badges/0a2b1262-73eb-45f7-a1d8-c610410865e7) _(juil. 2019)_
+
+**Cisco CCNA** <br>
+[Cisco Networking Academy](https://www.netacad.com/fr) _(déc. 2007)_
+
+**Brevet de Technicien Supérieur - Informatique de Gestion** <br>
+[Pigier, l'École des Métiers de l'Entreprise](https://www.pigier.com/ecole-commerce-metz) - Metz, France _(2005 - 2007)_
+<br><br>
+
+## 💬 Langues
+
+**Français**: Langue natale <br>
+**Anglais**: Professionnel
+
+ 
