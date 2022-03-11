@@ -88,7 +88,7 @@ Saint-Julien-lès-Metz, France <br>
  - Code repo / CI / CD : Git, Bitbucket
 <br><br>
 
-## 👩🏼‍🎓 Formation & Certifications
+## 👨‍🎓 Formation & Certifications
 
 **AWS Certified Solutions Architect - Associate** <br>
 [Amazon Web Services](https://www.credly.com/badges/0a2b1262-73eb-45f7-a1d8-c610410865e7) _(juil. 2019)_
