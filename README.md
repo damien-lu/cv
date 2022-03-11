@@ -8,7 +8,7 @@ _J'aime imaginer, concevoir et opérer des infrastructures de production résili
 
 **Head of IT** @ [E-connect](https://www.e-connect.lu/) _(oct. 2017 - auj.)_ <br>
 Luxembourg Hollerich, Luxembourg <br>
-_Agence web qui assure le développement du business de ses clients grâce au digital : création de sites internet, SEA / SEO, social media marketing, stratégie & conception, solutions cloud, services managés._
+_Agence web qui assure le développement du business de ses clients grâce au digital : création de sites internet, SEA / SEO, social media marketing, stratégie & conception, solutions cloud, services managés_
 
 Interlocuteur unique à la tête du service IT, en charge de toutes les tâches afférentes :
   - Design et implémentation de solutions cloud sur mesure, selon les besoins clients et dans le respect des "best practices" fournisseurs (AWS/Azure well-architected framework)
@@ -33,7 +33,7 @@ Rattaché à la direction générale France / Belux, encadrement d’une équipe
   - Coordination des différents prestataires
 <br><br>
 
-**Administrateur Systèmes & Réseaux** @ [Kymco Luxembourg](https://www.kymco.fr/) _(juin 2012 - janv. 2016)_ <br>
+**Administrateur Systèmes & Réseaux** @ [Kymco](https://www.kymco.fr/) _(juin 2012 - janv. 2016)_ <br>
 Bascharage, Luxembourg <br>
 _Importateur officiel de la marque de deux-roues et quad pour les marchés Luxembourgeois, Français et Belge_
 
