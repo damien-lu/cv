@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
-title: 👨‍💻🔐☁️⭐
-description: H, 35 ans, vivant à Metz, France
+title: Damien Spinelli
+description: Head of IT & Cloud — infrastructures résilientes, sécurisées et maîtrisées en coût. Metz / Luxembourg.
+lang: fr-FR
+locale: fr_FR
 show_downloads: false
-google_analytics: UA-222692486-1
+# Universal Analytics (UA-*) est arrêté depuis juillet 2023.
+# Pour mesurer à nouveau : créer une propriété GA4 (G-XXXXXXXX) puis
+# décommenter la ligne ci-dessous et ajouter
+# _includes/head-custom-google-analytics.html avec le snippet gtag.
+# google_analytics: G-XXXXXXXX
